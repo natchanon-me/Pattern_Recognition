@@ -6,3 +6,5 @@ Pattern Recognition course @ Chulalongkorn University 2022
 **HW1** : K-mean & Logistic Regression
 
 **HW2** : NaiveBayes classifier
+
+**HW3** : Simple Face verification model (PCA & LDA)
