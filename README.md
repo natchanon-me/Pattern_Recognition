@@ -8,3 +8,5 @@ Pattern Recognition course @ Chulalongkorn University 2022
 **HW2** : NaiveBayes classifier
 
 **HW3** : Simple Face verification model (PCA & LDA)
+
+**HW4** : Simple Neural Network (MNIST)
