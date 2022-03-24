@@ -10,3 +10,5 @@ Pattern Recognition course @ Chulalongkorn University 2022
 **HW3** : Simple Face verification model (PCA & LDA)
 
 **HW4** : Simple Neural Network (MNIST)
+
+**HW5** : Precipitation Nowcasting (Rain Forcasting)
