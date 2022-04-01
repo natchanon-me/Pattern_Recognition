@@ -1,4 +1,4 @@
-# Simple Neural network (Just numpy)
+# Simple Neural network (All written on Numpy)
 
 Using neural network classify handwritten digit from MNIST dataset
 
